@@ -1,12 +1,5 @@
-os
-time
-date
-numpy
-streamlit
-pandas
-glob
-shutil
-pyodbc
-requests
-base64
-opencv-python
+numpy==1.22.3
+streamlit==1.25.0
+pandas==2.0.3
+requests==2.31.0
+opencv-python==4.9.0.80
